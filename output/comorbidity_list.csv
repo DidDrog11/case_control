@@ -1,0 +1,18 @@
+"","auto_immune","cancers","cardiac","haematological","metabolic","neurological","no_comorbidity","psychiatric","renal","respiratory"
+"1","myasthenia","cancer","HTN","sickle","obesity","stroke","nil","schizophrenia","CKD","OSA"
+"2","lupus","carcinoma","hypertension","thalassaemia","pbesity","parkinsons",NA,"anorexia_nervosa","AKI","pulmonary_hypertension"
+"3","SLE","myeoysplasia","IHD","TTP","T1DM","TIA","none",NA,"renal_transplant","COPD"
+"4","crohns","myelodysplastic","CAD","anaemia","T2DM","sclerosis","alcohol_excess",NA,NA,"asthma"
+"5","UC","waldenstrom","AF",NA,"SIADH","epilepsy","alcohol_abuse",NA,NA,"fibrosis"
+"6","SLE","myeloma","CCF",NA,"obese","palsy","achalasia",NA,NA,"bronchiectasis"
+"7","granulomatosis","lymphoma","heart failure",NA,"hypothyroidism","dementia","sciatica",NA,NA,"interstitial"
+"8","sjogrens","leukaemia","NSTEMI",NA,"multinodular","autism","drug_misuse",NA,NA,"emphysema"
+"9","cold_agglutinin","prostate_ca","myocarditis",NA,"addison","ataxia","BPH",NA,NA,"TB"
+"10","graves","adenocarcinoma","atrial",NA,"pituitary",NA,"frailty",NA,NA,"sarcoidosis"
+"11","RA","glioma","CABG",NA,"pancreatitis",NA,NA,NA,NA,"PE"
+"12","sjogren","sarcoma","aortic",NA,NA,NA,NA,NA,NA,"apnoea"
+"13",NA,"melenoma","pacemaker",NA,NA,NA,NA,NA,NA,"prev_tb"
+"14",NA,"AML","cardiomyopathy",NA,NA,NA,NA,NA,NA,NA
+"15",NA,"glioblastoma","HOCM",NA,NA,NA,NA,NA,NA,NA
+"16",NA,"CLL","foramen",NA,NA,NA,NA,NA,NA,NA
+"17",NA,NA,"AS",NA,NA,NA,NA,NA,NA,NA

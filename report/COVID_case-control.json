@@ -1,0 +1,2241 @@
+[
+	{
+		"id": "Mo_2020",
+		"type": "article-journal",
+		"abstract": "AbstractBackground.  Since December 2019, novel coronavirus (SARS-CoV-2)-infected pneumonia (COVID-19) occurred in Wuhan, and rapidly spread throughout China. T",
+		"container-title": "Clinical Infectious Diseases",
+		"DOI": "10.1093/cid/ciaa270",
+		"journalAbbreviation": "Clin Infect Dis",
+		"language": "en",
+		"source": "academic.oup.com",
+		"title": "Clinical characteristics of refractory COVID-19 pneumonia in Wuhan, China",
+		"URL": "https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa270/5805508",
+		"author": [
+			{
+				"family": "Mo",
+				"given": "Pingzheng"
+			},
+			{
+				"family": "Xing",
+				"given": "Yuanyuan"
+			},
+			{
+				"family": "Xiao",
+				"given": "Yu"
+			},
+			{
+				"family": "Deng",
+				"given": "Liping"
+			},
+			{
+				"family": "Zhao",
+				"given": "Qiu"
+			},
+			{
+				"family": "Wang",
+				"given": "Hongling"
+			},
+			{
+				"family": "Xiong",
+				"given": "Yong"
+			},
+			{
+				"family": "Cheng",
+				"given": "Zhenshun"
+			},
+			{
+				"family": "Gao",
+				"given": "Shicheng"
+			},
+			{
+				"family": "Liang",
+				"given": "Ke"
+			},
+			{
+				"family": "Luo",
+				"given": "Mingqi"
+			},
+			{
+				"family": "Chen",
+				"given": "Tielong"
+			},
+			{
+				"family": "Song",
+				"given": "Shihui"
+			},
+			{
+				"family": "Ma",
+				"given": "Zhiyong"
+			},
+			{
+				"family": "Chen",
+				"given": "Xiaoping"
+			},
+			{
+				"family": "Zheng",
+				"given": "Ruiying"
+			},
+			{
+				"family": "Cao",
+				"given": "Qian"
+			},
+			{
+				"family": "Wang",
+				"given": "Fan"
+			},
+			{
+				"family": "Zhang",
+				"given": "Yongxi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "Guan_2020",
+		"type": "article-journal",
+		"abstract": "Original Article from The New England Journal of Medicine — Clinical Characteristics of Coronavirus Disease 2019 in China",
+		"archive_location": "world",
+		"container-title": "New England Journal of Medicine",
+		"DOI": "10.1056/NEJMoa2002032",
+		"language": "en",
+		"note": "publisher: Massachusetts Medical Society",
+		"source": "www.nejm.org",
+		"title": "Clinical Characteristics of Coronavirus Disease 2019 in China",
+		"URL": "https://www.nejm.org/doi/10.1056/NEJMoa2002032",
+		"author": [
+			{
+				"family": "Guan",
+				"given": "Wei-jie"
+			},
+			{
+				"family": "Ni",
+				"given": "Zheng-yi"
+			},
+			{
+				"family": "Hu",
+				"given": "Yu"
+			},
+			{
+				"family": "Liang",
+				"given": "Wen-hua"
+			},
+			{
+				"family": "Ou",
+				"given": "Chun-quan"
+			},
+			{
+				"family": "He",
+				"given": "Jian-xing"
+			},
+			{
+				"family": "Liu",
+				"given": "Lei"
+			},
+			{
+				"family": "Shan",
+				"given": "Hong"
+			},
+			{
+				"family": "Lei",
+				"given": "Chun-liang"
+			},
+			{
+				"family": "Hui",
+				"given": "David S. C."
+			},
+			{
+				"family": "Du",
+				"given": "Bin"
+			},
+			{
+				"family": "Li",
+				"given": "Lan-juan"
+			},
+			{
+				"family": "Zeng",
+				"given": "Guang"
+			},
+			{
+				"family": "Yuen",
+				"given": "Kwok-Yung"
+			},
+			{
+				"family": "Chen",
+				"given": "Ru-chong"
+			},
+			{
+				"family": "Tang",
+				"given": "Chun-li"
+			},
+			{
+				"family": "Wang",
+				"given": "Tao"
+			},
+			{
+				"family": "Chen",
+				"given": "Ping-yan"
+			},
+			{
+				"family": "Xiang",
+				"given": "Jie"
+			},
+			{
+				"family": "Li",
+				"given": "Shi-yue"
+			},
+			{
+				"family": "Wang",
+				"given": "Jin-lin"
+			},
+			{
+				"family": "Liang",
+				"given": "Zi-jing"
+			},
+			{
+				"family": "Peng",
+				"given": "Yi-xiang"
+			},
+			{
+				"family": "Wei",
+				"given": "Li"
+			},
+			{
+				"family": "Liu",
+				"given": "Yong"
+			},
+			{
+				"family": "Hu",
+				"given": "Ya-hua"
+			},
+			{
+				"family": "Peng",
+				"given": "Peng"
+			},
+			{
+				"family": "Wang",
+				"given": "Jian-ming"
+			},
+			{
+				"family": "Liu",
+				"given": "Ji-yang"
+			},
+			{
+				"family": "Chen",
+				"given": "Zhong"
+			},
+			{
+				"family": "Li",
+				"given": "Gang"
+			},
+			{
+				"family": "Zheng",
+				"given": "Zhi-jian"
+			},
+			{
+				"family": "Qiu",
+				"given": "Shao-qin"
+			},
+			{
+				"family": "Luo",
+				"given": "Jie"
+			},
+			{
+				"family": "Ye",
+				"given": "Chang-jiang"
+			},
+			{
+				"family": "Zhu",
+				"given": "Shao-yong"
+			},
+			{
+				"family": "Zhong",
+				"given": "Nan-shan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					2,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "Zhang_2020",
+		"type": "article-journal",
+		"abstract": "Background Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection has been widely spread. We aim to investigate the clinical characteristic and allergy status of patients infected with SARS-CoV-2. Methods Electronic medical records including demographics, clinical manifestation, comorbidities, laboratory data, and radiological materials of 140 hospitalized COVID-19 patients, with confirmed result of SARS-CoV-2 viral infection, were extracted and analyzed. Results An approximately 1:1 ratio of male (50.7%) and female COVID-19 patients was found, with an overall median age of 57.0 years. All patients were community-acquired cases. Fever (91.7%), cough (75.0%), fatigue (75.0%), and gastrointestinal symptoms (39.6%) were the most common clinical manifestations, whereas hypertension (30.0%) and diabetes mellitus (12.1%) were the most common comorbidities. Drug hypersensitivity (11.4%) and urticaria (1.4%) were self-reported by several patients. Asthma or other allergic diseases were not reported by any of the patients. Chronic obstructive pulmonary disease (COPD, 1.4%) patients and current smokers (1.4%) were rare. Bilateral ground-glass or patchy opacity (89.6%) was the most common sign of radiological finding. Lymphopenia (75.4%) and eosinopenia (52.9%) were observed in most patients. Blood eosinophil counts correlate positively with lymphocyte counts in severe (r = .486, P < .001) and nonsevere (r = .469, P < .001) patients after hospital admission. Significantly higher levels of D-dimer, C-reactive protein, and procalcitonin were associated with severe patients compared to nonsevere patients (all P < .001). Conclusion Detailed clinical investigation of 140 hospitalized COVID-19 cases suggests eosinopenia together with lymphopenia may be a potential indicator for diagnosis. Allergic diseases, asthma, and COPD are not risk factors for SARS-CoV-2 infection. Older age, high number of comorbidities, and more prominent laboratory abnormalities were associated with severe patients.",
+		"container-title": "Allergy",
+		"DOI": "10.1111/all.14238",
+		"ISSN": "1398-9995",
+		"issue": "7",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/all.14238",
+		"page": "1730-1741",
+		"source": "Wiley Online Library",
+		"title": "Clinical characteristics of 140 patients infected with SARS-CoV-2 in Wuhan, China",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/all.14238",
+		"volume": "75",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Jin-jin"
+			},
+			{
+				"family": "Dong",
+				"given": "Xiang"
+			},
+			{
+				"family": "Cao",
+				"given": "Yi-yuan"
+			},
+			{
+				"family": "Yuan",
+				"given": "Ya-dong"
+			},
+			{
+				"family": "Yang",
+				"given": "Yi-bin"
+			},
+			{
+				"family": "Yan",
+				"given": "You-qin"
+			},
+			{
+				"family": "Akdis",
+				"given": "Cezmi A."
+			},
+			{
+				"family": "Gao",
+				"given": "Ya-dong"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "Huang_2020",
+		"type": "article-journal",
+		"abstract": "Background A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus (2019-nCoV). We report the epidemiological, clinical, laboratory, and radiological characteristics and treatment and clinical outcomes of these patients.",
+		"container-title": "The Lancet",
+		"DOI": "10.1016/S0140-6736(20)30183-5",
+		"ISSN": "01406736",
+		"issue": "10223",
+		"journalAbbreviation": "The Lancet",
+		"language": "en",
+		"page": "497-506",
+		"source": "DOI.org (Crossref)",
+		"title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0140673620301835",
+		"volume": "395",
+		"author": [
+			{
+				"family": "Huang",
+				"given": "Chaolin"
+			},
+			{
+				"family": "Wang",
+				"given": "Yeming"
+			},
+			{
+				"family": "Li",
+				"given": "Xingwang"
+			},
+			{
+				"family": "Ren",
+				"given": "Lili"
+			},
+			{
+				"family": "Zhao",
+				"given": "Jianping"
+			},
+			{
+				"family": "Hu",
+				"given": "Yi"
+			},
+			{
+				"family": "Zhang",
+				"given": "Li"
+			},
+			{
+				"family": "Fan",
+				"given": "Guohui"
+			},
+			{
+				"family": "Xu",
+				"given": "Jiuyang"
+			},
+			{
+				"family": "Gu",
+				"given": "Xiaoying"
+			},
+			{
+				"family": "Cheng",
+				"given": "Zhenshun"
+			},
+			{
+				"family": "Yu",
+				"given": "Ting"
+			},
+			{
+				"family": "Xia",
+				"given": "Jiaan"
+			},
+			{
+				"family": "Wei",
+				"given": "Yuan"
+			},
+			{
+				"family": "Wu",
+				"given": "Wenjuan"
+			},
+			{
+				"family": "Xie",
+				"given": "Xuelei"
+			},
+			{
+				"family": "Yin",
+				"given": "Wen"
+			},
+			{
+				"family": "Li",
+				"given": "Hui"
+			},
+			{
+				"family": "Liu",
+				"given": "Min"
+			},
+			{
+				"family": "Xiao",
+				"given": "Yan"
+			},
+			{
+				"family": "Gao",
+				"given": "Hong"
+			},
+			{
+				"family": "Guo",
+				"given": "Li"
+			},
+			{
+				"family": "Xie",
+				"given": "Jungang"
+			},
+			{
+				"family": "Wang",
+				"given": "Guangfa"
+			},
+			{
+				"family": "Jiang",
+				"given": "Rongmeng"
+			},
+			{
+				"family": "Gao",
+				"given": "Zhancheng"
+			},
+			{
+				"family": "Jin",
+				"given": "Qi"
+			},
+			{
+				"family": "Wang",
+				"given": "Jianwei"
+			},
+			{
+				"family": "Cao",
+				"given": "Bin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "Liu_2020",
+		"type": "article-journal",
+		"abstract": "Background \n        Since early December 2019, the 2019 novel coronavirus disease (COVID-19) has caused pneumonia epidemic in Wuhan, Hubei province of China. This study aimed to investigate the factors affecting the progression of pneumonia in COVID-19 patients. Associated results will be used to evaluate the prognosis and to find the optimal treatment regimens for COVID-19 pneumonia.\n        Methods \n        Patients tested positive for the COVID-19 based on nucleic acid detection were included in this study. Patients were admitted to 3 tertiary hospitals in Wuhan between December 30, 2019, and January 15, 2020. Individual data, laboratory indices, imaging characteristics, and clinical data were collected, and statistical analysis was performed. Based on clinical typing results, the patients were divided into a progression group or an improvement/stabilization group. Continuous variables were analyzed using independent samples t-test or Mann-Whitney U test. Categorical variables were analyzed using Chi-squared test or Fisher's exact test. Logistic regression analysis was performed to explore the risk factors for disease progression.\n        Results \n        Seventy-eight patients with COVID-19-induced pneumonia met the inclusion criteria and were included in this study. Efficacy evaluation at 2 weeks after hospitalization indicated that 11 patients (14.1%) had deteriorated, and 67 patients (85.9%) had improved/stabilized. The patients in the progression group were significantly older than those in the disease improvement/stabilization group (66 [51, 70] vs. 37 [32, 41] years, U = 4.932, P = 0.001). The progression group had a significantly higher proportion of patients with a history of smoking than the improvement/stabilization group (27.3% vs. 3.0%, χ2 = 9.291, P = 0.018). For all the 78 patients, fever was the most common initial symptom, and the maximum body temperature at admission was significantly higher in the progression group than in the improvement/stabilization group (38.2 [37.8, 38.6] vs. 37.5 [37.0, 38.4]°C, U = 2.057, P = 0.027). Moreover, the proportion of patients with respiratory failure (54.5% vs. 20.9%, χ2 = 5.611, P = 0.028) and respiratory rate (34 [18, 48] vs. 24 [16, 60] breaths/min, U = 4.030, P = 0.004) were significantly higher in the progression group than in the improvement/stabilization group. C-reactive protein was significantly elevated in the progression group compared to the improvement/stabilization group (38.9 [14.3, 64.8] vs. 10.6 [1.9, 33.1] mg/L, U = 1.315, P = 0.024). Albumin was significantly lower in the progression group than in the improvement/stabilization group (36.62 ± 6.60 vs. 41.27 ± 4.55 g/L, U = 2.843, P = 0.006). Patients in the progression group were more likely to receive high-level respiratory support than in the improvement/stabilization group (χ2 = 16.01, P = 0.001). Multivariate logistic analysis indicated that age (odds ratio [OR], 8.546; 95% confidence interval [CI]: 1.628–44.864; P = 0.011), history of smoking (OR, 14.285; 95% CI: 1.577–25.000; P = 0.018), maximum body temperature at admission (OR, 8.999; 95% CI: 1.036–78.147, P = 0.046), respiratory failure (OR, 8.772, 95% CI: 1.942–40.000; P = 0.016), albumin (OR, 7.353, 95% CI: 1.098–50.000; P = 0.003), and C-reactive protein (OR, 10.530; 95% CI: 1.224−34.701, P = 0.028) were risk factors for disease progression.\n        Conclusions \n        Several factors that led to the progression of COVID-19 pneumonia were identified, including age, history of smoking, maximum body temperature at admission, respiratory failure, albumin, and C-reactive protein. These results can be used to further enhance the ability of management of COVID-19 pneumonia.",
+		"container-title": "Chinese Medical Journal",
+		"DOI": "10.1097/CM9.0000000000000775",
+		"ISSN": "0366-6999",
+		"issue": "9",
+		"language": "en-US",
+		"page": "1032–1038",
+		"source": "journals.lww.com",
+		"title": "Analysis of factors associated with disease outcomes in hospitalized patients with 2019 novel coronavirus disease",
+		"URL": "https://journals.lww.com/cmj/FullText/2020/05050/Analysis_of_factors_associated_with_disease.5.aspx",
+		"volume": "133",
+		"author": [
+			{
+				"family": "Liu",
+				"given": "Wei"
+			},
+			{
+				"family": "Tao",
+				"given": "Zhao-Wu"
+			},
+			{
+				"family": "Wang",
+				"given": "Lei"
+			},
+			{
+				"family": "Yuan",
+				"given": "Ming-Li"
+			},
+			{
+				"family": "Liu",
+				"given": "Kui"
+			},
+			{
+				"family": "Zhou",
+				"given": "Ling"
+			},
+			{
+				"family": "Wei",
+				"given": "Shuang"
+			},
+			{
+				"family": "Deng",
+				"given": "Yan"
+			},
+			{
+				"family": "Liu",
+				"given": "Jing"
+			},
+			{
+				"family": "Liu",
+				"given": "Hui-Guo"
+			},
+			{
+				"family": "Yang",
+				"given": "Ming"
+			},
+			{
+				"family": "Hu",
+				"given": "Yi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "Hoffman_2020",
+		"type": "article-journal",
+		"abstract": "The recent emergence of the novel, pathogenic SARS-coronavirus 2 (SARS-CoV-2) in China and its rapid national and international spread pose a global health emergency. Cell entry of coronaviruses depends on binding of the viral spike (S) proteins to cellular receptors and on S protein priming by host cell proteases. Unravelling which cellular factors are used by SARS-CoV-2 for entry might provide insights into viral transmission and reveal therapeutic targets. Here, we demonstrate that SARS-CoV-2 uses the SARS-CoV receptor ACE2 for entry and the serine protease TMPRSS2 for S protein priming. A TMPRSS2 inhibitor approved for clinical use blocked entry and might constitute a treatment option. Finally, we show that the sera from convalescent SARS patients cross-neutralized SARS-2-S-driven entry. Our results reveal important commonalities between SARS-CoV-2 and SARS-CoV infection and identify a potential target for antiviral intervention.",
+		"container-title": "Cell",
+		"DOI": "10.1016/j.cell.2020.02.052",
+		"ISSN": "0092-8674",
+		"issue": "2",
+		"journalAbbreviation": "Cell",
+		"language": "en",
+		"page": "271-280.e8",
+		"source": "ScienceDirect",
+		"title": "SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0092867420302294",
+		"volume": "181",
+		"author": [
+			{
+				"family": "Hoffmann",
+				"given": "Markus"
+			},
+			{
+				"family": "Kleine-Weber",
+				"given": "Hannah"
+			},
+			{
+				"family": "Schroeder",
+				"given": "Simon"
+			},
+			{
+				"family": "Krüger",
+				"given": "Nadine"
+			},
+			{
+				"family": "Herrler",
+				"given": "Tanja"
+			},
+			{
+				"family": "Erichsen",
+				"given": "Sandra"
+			},
+			{
+				"family": "Schiergens",
+				"given": "Tobias S."
+			},
+			{
+				"family": "Herrler",
+				"given": "Georg"
+			},
+			{
+				"family": "Wu",
+				"given": "Nai-Huei"
+			},
+			{
+				"family": "Nitsche",
+				"given": "Andreas"
+			},
+			{
+				"family": "Müller",
+				"given": "Marcel A."
+			},
+			{
+				"family": "Drosten",
+				"given": "Christian"
+			},
+			{
+				"family": "Pöhlmann",
+				"given": "Stefan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					4,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "Denholm_2010",
+		"type": "article-journal",
+		"abstract": "Objective: To describe the case characteristics and outcomes of patients hospitalised with pandemic (H1N1) 2009 influenza infection during the first 2 months of the epidemic. Design, participants and setting: Prospective case series of 112 patients admitted to seven hospitals in Melbourne with laboratory-confirmed pandemic (H1N1) 2009 influenza between 1 May and 17 July 2009. Main outcome measures: Details of case characteristics, risk factors for severe disease, treatment and clinical course. Results: Of 112 hospitalised patients, most presented with cough (88%) and/or fever (82%), but several (4%) had neither symptom. A quarter of female patients (15) were pregnant or in the post-partum period. Patients presenting with multifocal changes on chest x-ray had significantly longer hospital lengths of stay, and were more likely to require intensive care unit admission. Thirty patients required admission to an intensive care unit, and three died during their acute illness. The median length of intensive care admission was 10.5 days (interquartile range, 5–16 days). Conclusions: This study highlights risk factors for severe disease, particularly pregnancy. Clinical and public health planning for upcoming influenza seasons should take into account the spectrum and severity of clinical infection demonstrated in this report, and the need to concentrate resources effectively in high-risk patient groups.",
+		"container-title": "Medical Journal of Australia",
+		"DOI": "10.5694/j.1326-5377.2010.tb03424.x",
+		"ISSN": "1326-5377",
+		"issue": "2",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.5694/j.1326-5377.2010.tb03424.x",
+		"page": "84-86",
+		"source": "Wiley Online Library",
+		"title": "Hospitalised adult patients with pandemic (H1N1) 2009 influenza in Melbourne, Australia",
+		"URL": "http://onlinelibrary.wiley.com/doi/abs/10.5694/j.1326-5377.2010.tb03424.x",
+		"volume": "192",
+		"author": [
+			{
+				"family": "Denholm",
+				"given": "Justin T."
+			},
+			{
+				"family": "Gordon",
+				"given": "Claire L."
+			},
+			{
+				"family": "Johnson",
+				"given": "Paul D."
+			},
+			{
+				"family": "Hewagama",
+				"given": "Saliya S."
+			},
+			{
+				"family": "Stuart",
+				"given": "Rhonda L."
+			},
+			{
+				"family": "Aboltins",
+				"given": "Craig"
+			},
+			{
+				"family": "Jeremiah",
+				"given": "Cameron"
+			},
+			{
+				"family": "Knox",
+				"given": "James"
+			},
+			{
+				"family": "Lane",
+				"given": "Garry P."
+			},
+			{
+				"family": "Tramontana",
+				"given": "Adrian R."
+			},
+			{
+				"family": "Slavin",
+				"given": "Monica A."
+			},
+			{
+				"family": "Schulz",
+				"given": "Thomas R."
+			},
+			{
+				"family": "Richards",
+				"given": "Michael"
+			},
+			{
+				"family": "Birch",
+				"given": "Chris J."
+			},
+			{
+				"family": "Cheng",
+				"given": "Allen C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "Abadom_2016",
+		"type": "article-journal",
+		"abstract": "Background\nInfluenza is a common cause of severe respiratory illness, but risk factors for hospitalisation in low income settings with a high HIV prevalence are not well described. We aimed to assess risk factors associated with influenza-associated severe acute respiratory illness (SARI) hospitalisation in South Africa.\nMethods\nWe conducted a case-population study using data on risk conditions in patients hospitalised with SARI and the national prevalence of these conditions. Data on hospitalised cases were from the national SARI surveillance program while data on the referent population were from the latest national census or health and demographic surveillance surveys.\nFindings\nFrom 2009 to 2012, we identified 3646 (7.9%) of 46,031 enrolled cases of SARI that were associated with influenza infection. Risk factors associated with hospitalisation included previous history of smoking [case-population ratio (CPR) 3.82, 95% confidence interval (CI) 3.5–4.16], HIV infection (CPR 3.61, 95% CI 3.5–3.71), asthma (CPR 2.45, 95% CI 2.19–2.73), previous history of hospital admission in the past 12months (CPR 2.07, 95% CI 1.92–2.23), and tuberculosis (CPR 1.85, 95% CI 1.68–2.02). When stratified by age, there is increased risk of hospitalisation in those ⩽5yearsof age (CPR 3.07, 95% CI 2.93–3.21) and among those 35yearsof age and above (CPR 1.23, 95% CI 1.28–1.18). Male sex (CPR 0.85, 95% CI 0.82–0.88) and completion of pneumococcal conjugate vaccination schedule in children <5yearsof age (CPR 0.74, 95% CI 0.71–0.77) were associated with decreased risk of hospitalisation.\nConclusion\nThese results identify groups at high-risk for severe influenza who should be considered potential targets for influenza vaccination in South Africa and similar settings.",
+		"container-title": "Vaccine",
+		"DOI": "10.1016/j.vaccine.2016.09.011",
+		"ISSN": "0264-410X",
+		"issue": "46",
+		"journalAbbreviation": "Vaccine",
+		"language": "en",
+		"page": "5649-5655",
+		"source": "ScienceDirect",
+		"title": "Risk factors associated with hospitalisation for influenza-associated severe acute respiratory illness in South Africa: A case-population study",
+		"title-short": "Risk factors associated with hospitalisation for influenza-associated severe acute respiratory illness in South Africa",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0264410X16308246",
+		"volume": "34",
+		"author": [
+			{
+				"family": "Abadom",
+				"given": "Tochukwu Raphael"
+			},
+			{
+				"family": "Smith",
+				"given": "Adrian D."
+			},
+			{
+				"family": "Tempia",
+				"given": "Stefano"
+			},
+			{
+				"family": "Madhi",
+				"given": "Shabir A."
+			},
+			{
+				"family": "Cohen",
+				"given": "Cheryl"
+			},
+			{
+				"family": "Cohen",
+				"given": "Adam L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "Fang_2020",
+		"type": "article-journal",
+		"container-title": "Lancet Respir Med",
+		"DOI": "10.1016/s2213-2600(20)30116-8.",
+		"language": "en",
+		"page": "0",
+		"title": "Are patients with hypertension and diabetes mellitus at increased risk for COVID-19 infection?",
+		"author": [
+			{
+				"family": "Fang",
+				"given": "L."
+			},
+			{
+				"family": "Karakiulakis",
+				"given": "G."
+			},
+			{
+				"family": "Roth",
+				"given": "M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "Brake_2020",
+		"type": "article-journal",
+		"container-title": "J Clin Med",
+		"language": "en",
+		"page": "841",
+		"title": "Smoking Upregulates Angiotensin-Converting Enzyme-2 Receptor: A Potential Adhesion Site for Novel Coronavirus SARS-CoV-2 (Covid-19",
+		"volume": "9, Page 841",
+		"author": [
+			{
+				"family": "Brake",
+				"given": "S.J."
+			},
+			{
+				"family": "Barnsley",
+				"given": "K."
+			},
+			{
+				"family": "Lu",
+				"given": "W."
+			},
+			{
+				"family": "McAlinden",
+				"given": "K.D."
+			},
+			{
+				"family": "Eapen",
+				"given": "M.S."
+			},
+			{
+				"family": "Sohal",
+				"given": "S.S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "Oakes_2018",
+		"type": "article-journal",
+		"container-title": "Am. J. Physiol. - Regul. Integr. Comp. Physiol",
+		"language": "en",
+		"page": "895–906",
+		"title": "Nicotine and the renin-angiotensin system",
+		"volume": "315",
+		"author": [
+			{
+				"family": "Oakes",
+				"given": "J.M."
+			},
+			{
+				"family": "Fuchs",
+				"given": "R.M."
+			},
+			{
+				"family": "Gardner",
+				"given": "J.D."
+			},
+			{
+				"family": "Lazartigues",
+				"given": "E."
+			},
+			{
+				"family": "Yue",
+				"given": "X."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "Almirall_1999",
+		"type": "article-journal",
+		"container-title": "Chest",
+		"language": "fr",
+		"page": "375–9",
+		"title": "Proportion of community-acquired pneumonia cases attributable to tobacco smoking",
+		"volume": "116",
+		"author": [
+			{
+				"family": "Almirall",
+				"given": "J."
+			},
+			{
+				"family": "González",
+				"given": "C.A."
+			},
+			{
+				"family": "Balanzó",
+				"given": "X."
+			},
+			{
+				"family": "Bolíbar",
+				"given": "I."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "Feldman_2013",
+		"type": "article-journal",
+		"container-title": "J. Infect",
+		"language": "en",
+		"page": "169–84",
+		"title": "Cigarette smoking and mechanisms of susceptibility to infections of the respiratory tract and other organ systems",
+		"volume": "67",
+		"author": [
+			{
+				"family": "Feldman",
+				"given": "C."
+			},
+			{
+				"family": "Anderson",
+				"given": "R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "Millett_2015",
+		"type": "article-journal",
+		"container-title": "BMJ Open",
+		"language": "en",
+		"page": "008737",
+		"title": "Risk factors for hospital admission in the 28 days following a community-acquired pneumonia diagnosis in older adults, and their contribution to increasing hospitalisation rates over time: A cohort study",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Millett",
+				"given": "E.R.C."
+			},
+			{
+				"family": "De Stavola",
+				"given": "B.L."
+			},
+			{
+				"family": "Quint",
+				"given": "J.K."
+			},
+			{
+				"family": "Smeeth",
+				"given": "L."
+			},
+			{
+				"family": "Thomas",
+				"given": "S.L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "Vardavas_2020",
+		"type": "article-journal",
+		"container-title": "Tob Induc Dis",
+		"language": "en",
+		"page": "20",
+		"title": "COVID-19 and smoking: A systematic review of the evidence",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Vardavas",
+				"given": "C.I."
+			},
+			{
+				"family": "Nikitara",
+				"given": "K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "Alqahtani_2020",
+		"type": "article-journal",
+		"container-title": "A Rapid Systematic Review and Meta-Analysis. medRxiv",
+		"language": "en",
+		"title": "Prevalence, Severity and Mortality associated with COPD and Smoking in patients with COVID-19",
+		"author": [
+			{
+				"family": "Alqahtani",
+				"given": "J.S."
+			},
+			{
+				"family": "Oyelade",
+				"given": "T."
+			},
+			{
+				"family": "Aldhahir",
+				"given": "A.M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "Farsalinos_2020",
+		"type": "article-journal",
+		"container-title": "Qeios",
+		"DOI": "10.32388/Z69O8A.8.",
+		"language": "pt",
+		"note": "type: published online",
+		"title": "Smoking, vaping and hospitalization for COVID-19",
+		"author": [
+			{
+				"family": "Farsalinos",
+				"given": "K."
+			},
+			{
+				"family": "Barbouni",
+				"given": "A."
+			},
+			{
+				"family": "Niaura",
+				"given": "R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "Liu_2017",
+		"type": "article-journal",
+		"container-title": "J Epidemiol Community Heal",
+		"DOI": "10.1136/jech.",
+		"language": "en",
+		"title": "Prevalence and patterns of tobacco smoking among Chinese adult men and women: findings of the 2010 national smoking survey",
+		"author": [
+			{
+				"family": "Liu",
+				"given": "S."
+			},
+			{
+				"family": "Zhang",
+				"given": "M."
+			},
+			{
+				"family": "Yang",
+				"given": "L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "Zhu_2020",
+		"type": "article-journal",
+		"container-title": "J Med Virol",
+		"language": "en",
+		"title": "Initial clinical features of suspected Coronavirus Disease 2019 in two emergency departments outside of Hubei, China",
+		"volume": "jmv.25763",
+		"author": [
+			{
+				"family": "Zhu",
+				"given": "W."
+			},
+			{
+				"family": "Xie",
+				"given": "K."
+			},
+			{
+				"family": "Lu",
+				"given": "H."
+			},
+			{
+				"family": "Xu",
+				"given": "L."
+			},
+			{
+				"family": "Zhou",
+				"given": "S."
+			},
+			{
+				"family": "Fang",
+				"given": "S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "Wu_2020",
+		"type": "article-journal",
+		"container-title": "Invest Radiol",
+		"language": "en",
+		"page": "1",
+		"title": "Chest CT Findings in Patients with Corona Virus Disease 2019 and its Relationship with Clinical Features",
+		"author": [
+			{
+				"family": "Wu",
+				"given": "J."
+			},
+			{
+				"family": "Wu",
+				"given": "X."
+			},
+			{
+				"family": "Zeng",
+				"given": "W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "Simons_b_2020",
+		"type": "article-journal",
+		"container-title": "The BMJ",
+		"language": "en",
+		"title": "Covid-19: The role of smoking cessation during respiratory virus epidemics",
+		"URL": "https://blogs.bmj.com/bmj/2020/03/20/covid-19-the-role-of-smoking-cessation-during-respiratory-virus-epidemics/",
+		"author": [
+			{
+				"family": "Simons",
+				"given": "D."
+			},
+			{
+				"family": "Perski",
+				"given": "O."
+			},
+			{
+				"family": "Brown",
+				"given": "J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "Adler_2014",
+		"type": "article-journal",
+		"container-title": "BMC Infect Dis",
+		"language": "en",
+		"page": "232",
+		"title": "Incidence and risk factors for influenza-like-illness in the UK: Online surveillance using Flusurvey",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Adler",
+				"given": "A.J."
+			},
+			{
+				"family": "Eames",
+				"given": "K.T.D."
+			},
+			{
+				"family": "Funk",
+				"given": "S."
+			},
+			{
+				"family": "Edmunds",
+				"given": "W.J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "ONS_2019",
+		"type": "book",
+		"language": "en",
+		"title": "Office for National Statistics (UK). Smoking habits in the UK and its constituent countries",
+		"URL": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/datasets/smokinghabitsintheukanditsconstituentcountries",
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "Lawrence_2019",
+		"type": "article-journal",
+		"container-title": "J Infect",
+		"language": "en",
+		"page": "401–6",
+		"title": "Cigarette smoking and the occurrence of influenza – Systematic review",
+		"volume": "79",
+		"author": [
+			{
+				"family": "Lawrence",
+				"given": "H."
+			},
+			{
+				"family": "Hunter",
+				"given": "A."
+			},
+			{
+				"family": "Murray",
+				"given": "R."
+			},
+			{
+				"family": "Lim",
+				"given": "W.S."
+			},
+			{
+				"family": "McKeever",
+				"given": "T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "Cai_2020",
+		"type": "report",
+		"abstract": "In current severe global emergency situation of 2019-nCov outbreak, it is imperative to identify vulnerable and susceptible groups for effective protection and care. Recently, studies found that 2019-nCov and SARS-nCov share the same receptor, ACE2. In this study, we analyzed five large-scale bulk transcriptomic datasets of normal lung tissue and two single-cell transcriptomic datasets to investigate the disparities related to race, age, gender and smoking status in ACE2 gene expression and its distribution among cell types. We didn&rsquo;t find significant disparities in ACE2 gene expression between racial groups (Asian vs Caucasian), age groups (&gt;60 vs &lt;60) or gender groups (male vs female). However, we observed significantly higher ACE2 gene expression in former smoker&rsquo;s lung compared to non-smoker&rsquo;s lung. Also, we found higher ACE2 gene expression in Asian current smokers compared to non-smokers but not in Caucasian current smokers, which may indicate an existence of gene-smoking interaction. In addition, we found that ACE2 gene is expressed in specific cell types related to smoking history and location. In bronchial epithelium, ACE2 is actively expressed in goblet cells of current smokers and club cells of non-smokers. In alveoli, ACE2 is actively expressed in remodelled AT2 cells of former smokers. Together, this study indicates that smokers especially former smokers may be more susceptible to 2019-nCov and have infection paths different with non-smokers. Thus, smoking history may provide valuable information in identifying susceptible population and standardizing treatment regimen.",
+		"genre": "preprint",
+		"note": "DOI: 10.20944/preprints202002.0051.v3; http://web.archive.org/web/20200925104805/https://www.preprints.org/manuscript/202002.0051/v3",
+		"publisher": "LIFE SCIENCES",
+		"source": "DOI.org (Crossref)",
+		"title": "Bulk and Single-Cell Transcriptomics Identify Tobacco-Use Disparity in Lung Gene Expression of ACE2, the Receptor of 2019-nCov",
+		"URL": "https://doi.org/10.20944/preprints202002.0051.v3",
+		"author": [
+			{
+				"family": "Cai",
+				"given": "Guoshuai"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					3,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "Zhou_2020",
+		"type": "article-journal",
+		"abstract": "Since the outbreak of severe acute respiratory syndrome (SARS) 18 years ago, a large number of SARS-related coronaviruses (SARSr-CoVs) have been discovered in their natural reservoir host, bats1–4. Previous studies have shown that some bat SARSr-CoVs have the potential to infect humans5–7. Here we report the identification and characterization of a new coronavirus (2019-nCoV), which caused an epidemic of acute respiratory syndrome in humans in Wuhan, China. The epidemic, which started on 12 December 2019, had caused 2,794 laboratory-confirmed infections including 80 deaths by 26 January 2020. Full-length genome sequences were obtained from five patients at an early stage of the outbreak. The sequences are almost identical and share 79.6% sequence identity to SARS-CoV. Furthermore, we show that 2019-nCoV is 96% identical at the whole-genome level to a bat coronavirus. Pairwise protein sequence analysis of seven conserved non-structural proteins domains show that this virus belongs to the species of SARSr-CoV. In addition, 2019-nCoV virus isolated from the bronchoalveolar lavage fluid of a critically ill patient could be neutralized by sera from several patients. Notably, we confirmed that 2019-nCoV uses the same cell entry receptor—angiotensin converting enzyme II (ACE2)—as SARS-CoV.",
+		"container-title": "Nature",
+		"DOI": "10.1038/s41586-020-2012-7",
+		"ISSN": "1476-4687",
+		"issue": "7798",
+		"language": "en",
+		"note": "number: 7798\npublisher: Nature Publishing Group; http://web.archive.org/web/20200925105141/https://www.nature.com/articles/s41586-020-2012-7",
+		"page": "270-273",
+		"source": "www-nature-com.libproxy.ucl.ac.uk",
+		"title": "A pneumonia outbreak associated with a new coronavirus of probable bat origin",
+		"URL": "10.1038/s41586-020-2012-7",
+		"volume": "579",
+		"author": [
+			{
+				"family": "Zhou",
+				"given": "Peng"
+			},
+			{
+				"family": "Yang",
+				"given": "Xing-Lou"
+			},
+			{
+				"family": "Wang",
+				"given": "Xian-Guang"
+			},
+			{
+				"family": "Hu",
+				"given": "Ben"
+			},
+			{
+				"family": "Zhang",
+				"given": "Lei"
+			},
+			{
+				"family": "Zhang",
+				"given": "Wei"
+			},
+			{
+				"family": "Si",
+				"given": "Hao-Rui"
+			},
+			{
+				"family": "Zhu",
+				"given": "Yan"
+			},
+			{
+				"family": "Li",
+				"given": "Bei"
+			},
+			{
+				"family": "Huang",
+				"given": "Chao-Lin"
+			},
+			{
+				"family": "Chen",
+				"given": "Hui-Dong"
+			},
+			{
+				"family": "Chen",
+				"given": "Jing"
+			},
+			{
+				"family": "Luo",
+				"given": "Yun"
+			},
+			{
+				"family": "Guo",
+				"given": "Hua"
+			},
+			{
+				"family": "Jiang",
+				"given": "Ren-Di"
+			},
+			{
+				"family": "Liu",
+				"given": "Mei-Qin"
+			},
+			{
+				"family": "Chen",
+				"given": "Ying"
+			},
+			{
+				"family": "Shen",
+				"given": "Xu-Rui"
+			},
+			{
+				"family": "Wang",
+				"given": "Xi"
+			},
+			{
+				"family": "Zheng",
+				"given": "Xiao-Shuang"
+			},
+			{
+				"family": "Zhao",
+				"given": "Kai"
+			},
+			{
+				"family": "Chen",
+				"given": "Quan-Jiao"
+			},
+			{
+				"family": "Deng",
+				"given": "Fei"
+			},
+			{
+				"family": "Liu",
+				"given": "Lin-Lin"
+			},
+			{
+				"family": "Yan",
+				"given": "Bing"
+			},
+			{
+				"family": "Zhan",
+				"given": "Fa-Xian"
+			},
+			{
+				"family": "Wang",
+				"given": "Yan-Yi"
+			},
+			{
+				"family": "Xiao",
+				"given": "Geng-Fu"
+			},
+			{
+				"family": "Shi",
+				"given": "Zheng-Li"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "Simons_a_2020",
+		"type": "article-journal",
+		"abstract": "Aims To estimate the association of smoking status with rates of i) infection, ii) hospitalisation, iii) disease severity, and iv) mortality from SARS-CoV-2/COVID-19 disease. Design Living rapid review of observational and experimental studies with random-effects hierarchical Bayesian meta-analyses. Published articles and pre-prints were identified via MEDLINE and medRxiv. Setting Community or hospital. No restrictions on location. Participants Adults who received a SARS-CoV-2 test or a COVID-19 diagnosis. Measurements Outcomes were SARS-CoV-2 infection, hospitalisation, disease severity and mortality stratified by smoking status. Study quality was assessed (i.e. ‘good’, ‘fair’ and ‘poor’). Findings Version 7 (searches up to 25 August 2020) included 233 studies with 32 ‘good’ and ‘fair’ quality studies included in meta-analyses. Fifty-seven studies (24.5%) reported current, former and never smoking status. Recorded smoking prevalence among people with COVID-19 was generally lower than national prevalence. Current compared with never smokers were at reduced risk of SARS-CoV-2 infection (RR=0.74, 95% Credible Interval (CrI) = 0.58-0.93, τ = 0.41). Data for former smokers were inconclusive (RR=1.05, 95% CrI = 0.95-1.17, τ = 0.17) but favoured there being no important association (21% probability of RR ≥1.1). Former compared with never smokers were at somewhat increased risk of hospitalisation (RR=1.20, CrI = 1.03-1.44, τ = 0.17), greater disease severity (RR=1.52, CrI = 1.13-2.07, τ = 0.29), and mortality (RR=1.39, 95% CrI = 1.09-1.87, τ = 0.27). Data for current smokers were inconclusive (RR=1.06, CrI = 0.82-1.35, τ = 0.27; RR=1.25, CrI = 0.85-1.93, τ = 0.34; RR=1.22, 95% CrI = 0.78-1.94, τ = 0.49 respectively) but favoured there being no important associations with hospitalisation and mortality (35% and 70% probability of RR ≥1.1, respectively) and a small but important association with disease severity (79% probability of RR ≥1.1). Conclusions Compared with never smokers, current smokers appear to be at reduced risk of SARS-CoV-2 infection while former smokers appear to be at increased risk of hospitalisation, increased disease severity and mortality from COVID-19. However, it is uncertain whether these associations are causal.",
+		"container-title": "Addiction",
+		"DOI": "10.1111/add.15276",
+		"ISSN": "1360-0443",
+		"issue": "n/a",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/add.15276",
+		"source": "Wiley Online Library",
+		"title": "The association of smoking status with SARS-CoV-2 infection, hospitalisation and mortality from COVID-19: A living rapid evidence review with Bayesian meta-analyses (version 7)",
+		"title-short": "The association of smoking status with SARS-CoV-2 infection, hospitalisation and mortality from COVID-19",
+		"URL": "http://onlinelibrary.wiley.com/doi/abs/10.1111/add.15276",
+		"volume": "n/a",
+		"author": [
+			{
+				"family": "Simons"
+			},
+			{
+				"family": "Shahab"
+			},
+			{
+				"family": "Brown"
+			},
+			{
+				"family": "Perski"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "Polubriaginof_2017",
+		"type": "article-journal",
+		"abstract": "Smoking is the leading cause of preventable death in the United States. Obtaining patients’ smoking status is the first step in delivering smoking cessation counseling. In this study, we assessed the quality of smoking status captured in an electronic health record from a large academic medical center. We analyzed data from structured notes, finding that smoking status was documented in 98% of 64,451 hospital encounters in 2016. 32% hospital encounters had discrepant documentation, and 54.5% of patients had implausible changes (e.g., changes from “current smoker” to “never smoker”). Overall, only 2.9% of patients were documented as active smokers, but 36.4% were documented as “unknown” or had discrepancies in their smoking status. These results suggest that patients that smoke are not appropriately identified. Centralized documentation with clinically actionable smoking status categories and implementation of patient-facing tools that allow patients to directly record their information could improve data quality of smoking status.",
+		"container-title": "AMIA Annual Symposium Proceedings",
+		"ISSN": "1942-597X",
+		"journalAbbreviation": "AMIA Annu Symp Proc",
+		"note": "PMID: 29854208\nPMCID: PMC5977725; http://web.archive.org/web/20200925122550/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5977725/",
+		"page": "1392-1400",
+		"source": "PubMed Central",
+		"title": "Challenges with Collecting Smoking Status in Electronic Health Records",
+		"URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5977725/",
+		"volume": "2017",
+		"author": [
+			{
+				"family": "Polubriaginof",
+				"given": "Fernanda"
+			},
+			{
+				"family": "Salmasian",
+				"given": "Hojjat"
+			},
+			{
+				"family": "Albert",
+				"given": "David A."
+			},
+			{
+				"family": "Vawdrey",
+				"given": "David K."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					4,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "Peralta_2010",
+		"type": "article-journal",
+		"abstract": "We describe the clinical and epidemiological characteristics of patients hospitalised with confirmed 2009 pandemic influenza A(H1N1) in Spain from April to December 2009 and the risk factors associated with a worse outcome (admission to an intensive care unit or death) in adults. Case-based epidemiological information was collected as part of the national strategy for the surveillance of severe cases. Of 3,025 patients, 852 were admitted to an intensive care unit and overall, 200 died. The median patient age was 38 years (range: 0-94). A total of 662 (26%) patients had no underlying risk conditions. Antiviral therapy was initiated within 48 hours after symptom onset in only 35.2% (n=711); the median length of time before treatment was four days. In a multivariate analysis, the start of antiviral therapy more than 48 hours after symptom onset (odds ratio (OR) 2.39; 95% confidence interval (CI): 1.79 to 3.2), morbid obesity (OR: 2.01; 95% CI 1.38 to 2.94), cardiovascular disease (OR: 1.79; 95% CI: 1.2 to 2.67) and chronic obstructive pulmonary disease (OR: 1.51; 95% CI: 1.03 to 2.2) were significantly associated with a worse outcome in adults. .",
+		"container-title": "Eurosurveillance",
+		"DOI": "10.2807/ese.15.38.19667-en",
+		"ISSN": "1560-7917",
+		"issue": "38",
+		"language": "en",
+		"note": "publisher: European Centre for Disease Prevention and Control; http://web.archive.org/web/20200929142611/https://www.eurosurveillance.org/content/10.2807/ese.15.38.19667-en",
+		"page": "19667",
+		"source": "www.eurosurveillance.org",
+		"title": "Risk factors for disease severity among hospitalised patients with 2009 pandemic influenza A (H1N1) in Spain, April – December 2009",
+		"URL": "10.2807/ese.15.38.19667-en",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Peralta",
+				"given": "P. Santa-Olalla"
+			},
+			{
+				"family": "Cortes-García",
+				"given": "M."
+			},
+			{
+				"family": "Vicente-Herrero",
+				"given": "M."
+			},
+			{
+				"family": "Castrillo-Villamandos",
+				"given": "C."
+			},
+			{
+				"family": "Arias-Bohigas",
+				"given": "P."
+			},
+			{
+				"family": "Amo",
+				"given": "I. Pachon-del"
+			},
+			{
+				"family": "Sierra-Moros",
+				"given": "M. J."
+			},
+			{
+				"family": "Spain",
+				"given": "on behalf of the Surveillance Group for New Influenza A(H1N1) Virus Investigation and Control Team",
+				"dropping-particle": "in"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					9,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "Falsey_2014",
+		"type": "article-journal",
+		"abstract": "Abstract.  Background. Few studies have prospectively assessed viral etiologies of acute respiratory infections in community-based elderly individuals. We asses",
+		"container-title": "The Journal of Infectious Diseases",
+		"DOI": "10.1093/infdis/jit839",
+		"ISSN": "0022-1899",
+		"issue": "12",
+		"journalAbbreviation": "J Infect Dis",
+		"language": "en",
+		"note": "publisher: Oxford Academic; http://web.archive.org/web/20200929142732/https://academic.oup.com/jid/article/209/12/1873/798017",
+		"page": "1873-1881",
+		"source": "academic.oup.com",
+		"title": "Respiratory Syncytial Virus and Other Respiratory Viral Infections in Older Adults With Moderate to Severe Influenza-like Illness",
+		"URL": "10.1093/infdis/jit839",
+		"volume": "209",
+		"author": [
+			{
+				"family": "Falsey",
+				"given": "Ann R."
+			},
+			{
+				"family": "McElhaney",
+				"given": "Janet E."
+			},
+			{
+				"family": "Beran",
+				"given": "Jiri"
+			},
+			{
+				"family": "Essen",
+				"given": "Gerrit A.",
+				"non-dropping-particle": "van"
+			},
+			{
+				"family": "Duval",
+				"given": "Xavier"
+			},
+			{
+				"family": "Esen",
+				"given": "Meral"
+			},
+			{
+				"family": "Galtier",
+				"given": "Florence"
+			},
+			{
+				"family": "Gervais",
+				"given": "Pierre"
+			},
+			{
+				"family": "Hwang",
+				"given": "Shinn-Jang"
+			},
+			{
+				"family": "Kremsner",
+				"given": "Peter"
+			},
+			{
+				"family": "Launay",
+				"given": "Odile"
+			},
+			{
+				"family": "Leroux-Roels",
+				"given": "Geert"
+			},
+			{
+				"family": "McNeil",
+				"given": "Shelly A."
+			},
+			{
+				"family": "Nowakowski",
+				"given": "Andrzej"
+			},
+			{
+				"family": "Richardus",
+				"given": "Jan Hendrik"
+			},
+			{
+				"family": "Ruiz-Palacios",
+				"given": "Guillermo"
+			},
+			{
+				"family": "St Rose",
+				"given": "Suzanne"
+			},
+			{
+				"family": "Devaster",
+				"given": "Jeanne-Marie"
+			},
+			{
+				"family": "Oostvogels",
+				"given": "Lidia"
+			},
+			{
+				"family": "Durviaux",
+				"given": "Serge"
+			},
+			{
+				"family": "Taylor",
+				"given": "Sylvia"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					6,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "Mccarthy_1999",
+		"type": "article-journal",
+		"abstract": "Abstract.  BACKGROUND: Analytical studies of reportable infectious diseases often use the small minority of cases detected through surveillance systems. For man",
+		"container-title": "International Journal of Epidemiology",
+		"DOI": "10.1093/ije/28.4.764",
+		"ISSN": "0300-5771",
+		"issue": "4",
+		"journalAbbreviation": "Int J Epidemiol",
+		"language": "en",
+		"note": "publisher: Oxford Academic; http://web.archive.org/web/20200929143718/https://academic.oup.com/ije/article/28/4/764/721715",
+		"page": "764-768",
+		"source": "academic.oup.com",
+		"title": "Case-case comparisons to study causation of common infectious diseases.",
+		"URL": "10.1093/ije/28.4.764",
+		"volume": "28",
+		"author": [
+			{
+				"family": "McCarthy",
+				"given": "N."
+			},
+			{
+				"family": "Giesecke",
+				"given": "J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999",
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "Vandenbroucke_2012",
+		"type": "article-journal",
+		"abstract": "Abstract.  The purpose of this article is to present in elementary mathematical and statistical terms a simple way to quickly and effectively teach and understa",
+		"container-title": "International Journal of Epidemiology",
+		"DOI": "10.1093/ije/dys147",
+		"ISSN": "0300-5771",
+		"issue": "5",
+		"journalAbbreviation": "Int J Epidemiol",
+		"language": "en",
+		"note": "publisher: Oxford Academic; http://web.archive.org/web/20200929144122/https://academic.oup.com/ije/article/41/5/1480/713573",
+		"page": "1480-1489",
+		"source": "academic-oup-com.libproxy.ucl.ac.uk",
+		"title": "Case–control studies: basic concepts",
+		"title-short": "Case–control studies",
+		"URL": "10.1093/ije/dys147",
+		"volume": "41",
+		"author": [
+			{
+				"family": "Vandenbroucke",
+				"given": "Jan P."
+			},
+			{
+				"family": "Pearce",
+				"given": "Neil"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "COVID_JH_2020",
+		"type": "webpage",
+		"abstract": "Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)",
+		"container-title": "Johns Hopkins Coronavirus Resource Center",
+		"language": "en",
+		"title": "Johns Hopkins University",
+		"URL": "https://coronavirus.jhu.edu/map.html",
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "Simons_c_2020",
+		"type": "article-journal",
+		"abstract": "Hosted on the Open Science Framework",
+		"DOI": "None",
+		"language": "en",
+		"note": "publisher: OSF",
+		"source": "osf.io",
+		"title": "Protocol",
+		"URL": "https://osf.io/zsj6t/",
+		"author": [
+			{
+				"family": "Simons"
+			},
+			{
+				"family": "Perski"
+			},
+			{
+				"family": "Brown"
+			},
+			{
+				"family": "Shahab"
+			},
+			{
+				"family": "Bailey"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "ONS_2020",
+		"type": "webpage",
+		"note": "http://web.archive.org/web/20201008090532/https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsduetocoronaviruscovid19comparedwithdeathsfrominfluenzaandpneumoniaenglandandwales/deathsoccurringbetween1januaryand31august2020",
+		"title": "ONS",
+		"URL": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsduetocoronaviruscovid19comparedwithdeathsfrominfluenzaandpneumoniaenglandandwales/deathsoccurringbetween1januaryand31august2020",
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "Weistreich_2013",
+		"type": "article-journal",
+		"abstract": "Abstract.  It is common to present multiple adjusted effect estimates from a single model in a single table. For example, a table might show odds ratios for one",
+		"container-title": "American Journal of Epidemiology",
+		"DOI": "10.1093/aje/kws412",
+		"ISSN": "0002-9262",
+		"issue": "4",
+		"journalAbbreviation": "Am J Epidemiol",
+		"language": "en",
+		"note": "publisher: Oxford Academic; http://web.archive.org/web/20201008090542/https://academic.oup.com/aje/article/177/4/292/147738",
+		"page": "292-298",
+		"source": "academic.oup.com",
+		"title": "The Table 2 Fallacy: Presenting and Interpreting Confounder and Modifier Coefficients",
+		"title-short": "The Table 2 Fallacy",
+		"URL": "10.1093/aje/kws412",
+		"volume": "177",
+		"author": [
+			{
+				"family": "Westreich",
+				"given": "Daniel"
+			},
+			{
+				"family": "Greenland",
+				"given": "Sander"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					2,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "Stampfli_2009",
+		"type": "article-journal",
+		"abstract": "The devastating impact of smoking on health is well known. Here the authors warn of the complex and multiple adverse effects of cigarette smoke on the immune system, which increase susceptibility to respiratory infections, lung pathologies and cancer.",
+		"container-title": "Nature Reviews Immunology",
+		"DOI": "10.1038/nri2530",
+		"ISSN": "1474-1741",
+		"issue": "5",
+		"language": "en",
+		"note": "number: 5\npublisher: Nature Publishing Group; http://web.archive.org/web/20201008105732/https://www.nature.com/articles/nri2530",
+		"page": "377-384",
+		"source": "www-nature-com.libproxy.ucl.ac.uk",
+		"title": "How cigarette smoke skews immune responses to promote infection, lung disease and cancer",
+		"URL": "10.1038/nri2530",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Stämpfli",
+				"given": "Martin R."
+			},
+			{
+				"family": "Anderson",
+				"given": "Gary P."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "Arcavi_2004",
+		"type": "article-journal",
+		"container-title": "Archives of Internal Medicine",
+		"DOI": "10.1001/archinte.164.20.2206",
+		"ISSN": "0003-9926",
+		"issue": "20",
+		"journalAbbreviation": "Arch Intern Med",
+		"language": "en",
+		"note": "http://web.archive.org/web/20201008112831/https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/217624",
+		"page": "2206",
+		"source": "DOI.org (Crossref)",
+		"title": "Cigarette Smoking and Infection",
+		"URL": "10.1001/archinte.164.20.2206",
+		"volume": "164",
+		"author": [
+			{
+				"family": "Arcavi",
+				"given": "Lidia"
+			},
+			{
+				"family": "Benowitz",
+				"given": "Neal L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "Lansbury_2020",
+		"type": "article-journal",
+		"abstract": "•\n              SARS-CoV-2, the cause of COVID19 disease, has spread globally since late 2019\n            \n            \n              •\n              Bacterial coinfections associated with mortality in previous influenza pandemics\n            \n            \n              •\n              Proportion of COVID19 patients with bacterial coinfection less than in flu pandemics\n            \n            \n              •\n              Higher proportion of critically-ill with bacterial coinfections than in mixed setting\n            \n            \n              •\n              Bacterial co-pathogen profiles different to those in influenza co-infections\n            \n            \n              •\n              Fungal coinfection diagnosis difficult so high level suspicion in critically-ill",
+		"container-title": "The Journal of Infection",
+		"DOI": "10.1016/j.jinf.2020.05.046",
+		"ISSN": "0163-4453",
+		"issue": "2",
+		"journalAbbreviation": "J Infect",
+		"note": "PMID: 32473235\nPMCID: PMC7255350; http://web.archive.org/web/20201008121123/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7255350/",
+		"page": "266-275",
+		"source": "PubMed Central",
+		"title": "Co-infections in people with COVID-19: a systematic review and meta-analysis",
+		"title-short": "Co-infections in people with COVID-19",
+		"URL": "10.1016/j.jinf.2020.05.046",
+		"volume": "81",
+		"author": [
+			{
+				"family": "Lansbury",
+				"given": "Louise"
+			},
+			{
+				"family": "Lim",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Baskaran",
+				"given": "Vadsala"
+			},
+			{
+				"family": "Lim",
+				"given": "Wei Shen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "Klok_2020",
+		"type": "article-journal",
+		"abstract": "Introduction\nCOVID-19 may predispose to both venous and arterial thromboembolism due to excessive inflammation, hypoxia, immobilisation and diffuse intravascular coagulation. Reports on the incidence of thrombotic complications are however not available.\nMethods\nWe evaluated the incidence of the composite outcome of symptomatic acute pulmonary embolism (PE), deep-vein thrombosis, ischemic stroke, myocardial infarction or systemic arterial embolism in all COVID-19 patients admitted to the ICU of 2 Dutch university hospitals and 1 Dutch teaching hospital.\nResults\nWe studied 184 ICU patients with proven COVID-19 pneumonia of whom 23 died (13%), 22 were discharged alive (12%) and 139 (76%) were still on the ICU on April 5th 2020. All patients received at least standard doses thromboprophylaxis. The cumulative incidence of the composite outcome was 31% (95%CI 20-41), of which CTPA and/or ultrasonography confirmed VTE in 27% (95%CI 17-37%) and arterial thrombotic events in 3.7% (95%CI 0-8.2%). PE was the most frequent thrombotic complication (n = 25, 81%). Age (adjusted hazard ratio (aHR) 1.05/per year, 95%CI 1.004-1.01) and coagulopathy, defined as spontaneous prolongation of the prothrombin time > 3 s or activated partial thromboplastin time > 5 s (aHR 4.1, 95%CI 1.9-9.1), were independent predictors of thrombotic complications.\nConclusion\nThe 31% incidence of thrombotic complications in ICU patients with COVID-19 infections is remarkably high. Our findings reinforce the recommendation to strictly apply pharmacological thrombosis prophylaxis in all COVID-19 patients admitted to the ICU, and are strongly suggestive of increasing the prophylaxis towards high-prophylactic doses, even in the absence of randomized evidence.",
+		"container-title": "Thrombosis Research",
+		"DOI": "10.1016/j.thromres.2020.04.013",
+		"ISSN": "0049-3848",
+		"journalAbbreviation": "Thrombosis Research",
+		"language": "en",
+		"page": "145-147",
+		"source": "ScienceDirect",
+		"title": "Incidence of thrombotic complications in critically ill ICU patients with COVID-19",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0049384820301201",
+		"volume": "191",
+		"author": [
+			{
+				"family": "Klok",
+				"given": "F. A."
+			},
+			{
+				"family": "Kruip",
+				"given": "M. J. H. A."
+			},
+			{
+				"family": "Meer",
+				"given": "N. J. M.",
+				"non-dropping-particle": "van der"
+			},
+			{
+				"family": "Arbous",
+				"given": "M. S."
+			},
+			{
+				"family": "Gommers",
+				"given": "D. A. M. P. J."
+			},
+			{
+				"family": "Kant",
+				"given": "K. M."
+			},
+			{
+				"family": "Kaptein",
+				"given": "F. H. J."
+			},
+			{
+				"family": "Paassen",
+				"given": "J.",
+				"non-dropping-particle": "van"
+			},
+			{
+				"family": "Stals",
+				"given": "M. A. M."
+			},
+			{
+				"family": "Huisman",
+				"given": "M. V."
+			},
+			{
+				"family": "Endeman",
+				"given": "H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					1
+				]
+			]
+		}
+	}
+]

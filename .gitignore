@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+gov_data/
+raw_data/
+clean_data/
+for_vani.R
